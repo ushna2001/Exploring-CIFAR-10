@@ -1,1 +1,2 @@
 # Exploring-CIFAR-10
+The "Exploring CIFAR-10" repository contains two key Jupyter notebooks. The first notebook implements CNN, SVM, and Random Forest classifiers to distinguish between two labels: animal or vehicle from the CIFAR-10 dataset. The second notebook, titled "CNN Model for 10 Classes," focuses on developing a CNN model to classify all 10 classes of the CIFAR-10 dataset. Both notebooks explore different machine learning approaches and highlight the versatility of CNNs in image classification tasks
